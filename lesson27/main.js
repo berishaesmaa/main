@@ -69,6 +69,5 @@ function Computer(name , cpu, ram,gpu){
 }
 
 var computer1= new  Computer("macbook", "mi 8-core", "8gb", "5600m gpu");
-
-
-var computer2= new Computer("dell",  )
+var computer2= new Computer("dell", "mi 8-core", "8gb", "5600m gpu" );
+var computer2=new Computer( "lenovo", "mi 8-core", "8gb", "5600m gpu")

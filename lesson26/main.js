@@ -38,4 +38,19 @@ var q=p**2;
 console.log(q)
 
 var x =15;
-var x+=5
+var x+=5;
+
+var firstName="digital"
+var lastName="school"
+var fullName= firstName +""+ lastName
+console.log(fullName)
+
+var school="digital school"
+console.log(`hello from ${school}`);
+
+var age=24;
+console.log(age >=18 && age<=65);
+
+var var1=5;
+var var2=6;
+console.log(var1 ==5 var2 || ==5 );
